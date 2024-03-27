@@ -13,7 +13,7 @@
 
 💬 Me pergunte sobre Matemática, Python, JavaScript.
 
-⚡️ Fatos engraçados: 
+⚡️ Fatos engraçados: adoro Toddynho 🐼
 
 # Linguagens de Programação
 
