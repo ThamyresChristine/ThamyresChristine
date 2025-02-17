@@ -3,7 +3,7 @@
 * Licenciatura em *Matemática* (Universidade Anhanguera)
 * Pós graduação em *Big Data Processing and Analytics* (Universidade Mackenzie)
 
-📝 Atualmente leciono aulas de  Lógica de Programação, Programação Mobile, FrontEnd e Machine Learning no curso de _Desenvolvimento de Sistema_ na _Proz Educação_
+📝 Atualmente leciono aulas de  Lógica de Programação, Programação Mobile, FrontEnd e Machine Learning no curso de _Desenvolvimento de Sistemas_ na _Proz Educação_
 
 🧠 Estudando: Machine Learning através DIO - Digital Innovation One & BairesDev
 
