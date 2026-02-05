@@ -11,7 +11,7 @@
 
 🤔 Procuro ajuda com Deep Learning
 
-💬 Me pergunte sobre Matemática, Estatística e Python, 
+💬 Me pergunte sobre Matemática, Estatística e Python
 
 # Linguagens de Programação
 
